@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Contagem de Literatura",
+  "short_name": "Literatura",
+  "description": "Contagem offline de stock de literatura pelo peso.",
+  "lang": "pt",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7f4",
+  "theme_color": "#174c42",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

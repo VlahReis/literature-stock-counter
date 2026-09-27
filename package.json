@@ -1,0 +1,6 @@
+{
+  "name": "literature-stock-counter",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tests/calculations.test.js" }
+}
